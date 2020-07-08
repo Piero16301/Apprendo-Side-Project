@@ -1,0 +1,37 @@
+.bloque-tema {
+  background-color: white;
+}
+
+section {
+  background-color: aqua;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+text {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.divLike {
+  display: flex;
+  color: rgba(59, 59, 59, 0.6);
+  margin-left: 3px;
+}
+
+.like {
+  display: inline-block;
+  transform: translateY(2px);
+  margin-left: 3px;
+}
+
+.btn-like {
+  display: flex;
+  align-items: flex-end;
+}
+
+.appclase-foot {
+  align-items: flex-end;
+}
